@@ -36,6 +36,11 @@
       lessionName: 'Sử dụng package trong oracle DB',
       lessionLink: 'https://ngnam.github.io/ngay-thu-hai-su-dung-oracle/',
     },
+    {
+      lessionId: 'Ngày 3',
+      lessionName: 'Sử dụng package trong oracle DB',
+      lessionLink: 'https://ngnam.github.io/ngay-thu-hai-su-dung-oracle/',
+    },
   ];
 
   linkBlogs.forEach((item) => {
